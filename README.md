@@ -27,7 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse é o meu primeiro portfólio de programação
 
 
 
